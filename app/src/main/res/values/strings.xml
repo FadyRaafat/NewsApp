@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="try_again_button_title">Try Again</string>
+    <string name="error_title_label">Oops! It\'s our bad</string>
+    <string name="error_description_label">Something went wrong, Try again!</string>
+    <string name="empty_title_label">No data available</string>
+    <string name="empty_description_label">Nothing to see here - yet</string>
+    <string name="retry_button_title">Reload</string>
+    <string name="by_author">By %s</string>
+    <string name="published_at">Published at %s</string>
+    <string name="like">Like</string>
+    <string name="retry">Retry</string>
+</resources>
